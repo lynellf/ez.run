@@ -1,4 +1,4 @@
-# hansel.run
+# ezell.run
 
 My own lil URL shortener
 
